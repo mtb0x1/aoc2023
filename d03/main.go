@@ -8,7 +8,7 @@ import (
 	"strings"
 )
 
-///source of challenge is : https://adventofcode.com/2023/day/2
+///source of challenge is : https://adventofcode.com/2023/day/3
 
 //go:embed input.txt
 var input string

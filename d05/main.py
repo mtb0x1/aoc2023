@@ -1,3 +1,5 @@
+#///source of challenge is : https://adventofcode.com/2023/day/5
+
 def get_ranges(domain: list[int], converter: list[int]) -> list[int]:
     mapppings = []
     domain_min, domain_max = domain

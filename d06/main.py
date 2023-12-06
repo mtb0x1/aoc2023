@@ -1,5 +1,7 @@
 import math
 
+#///source of challenge is : https://adventofcode.com/2023/day/6
+
 def solve_part1() -> int:
     result = 1
     for time, dis in races:
